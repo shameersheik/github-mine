@@ -1,6 +1,9 @@
-testing
+testing 3 
 
-Setting up project
+testing 1
+testing 2
+
+Setting 
 	1. provide your github username and password in the config.py file
 	2. project depends on python3
 	3. clone the github repository and provide the path to "localrepositorypath" in the config.py file
