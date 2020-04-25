@@ -1,3 +1,5 @@
+testing
+
 Setting up project
 	1. provide your github username and password in the config.py file
 	2. project depends on python3
